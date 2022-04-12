@@ -1,12 +1,19 @@
-Youtube.com clone
+# Youtube clone
 
-YouTube.com is an American online video sharing and social media platform owned by Google.
+BookMyShow offers showtimes, movie tickets, reviews, trailers, concert tickets and events nearby you.
 
-Features:
-• Users can search any videos in searchbar.
-• Can play any videos on clicking thumbnails.
+## Tech Stack
 
-Tech Stack: HTML | CSS | JavaScript
+### 1.Html
+### 2. Css
+### 3. Javascript
 
-Areas of responsibility:
-• Developed the Youtube.com, using Youtube api.
+
+## Live Demo
+https://youtubeabhiclone.netlify.app/
+
+
+### Yoube Front Page
+<img src="https://i.ibb.co/hyPJDKJ/Capture-youtube.png"/>
+     
+   
